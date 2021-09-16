@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Date UTC",
+    "description": "Date UTC.",
+    "author": "Manu.n",
+    "params": [
+     {
+      "name": "now",
+      "displayName": "Use The date/time at form submission",
+      "type": "date-time"
+    }
+  ],
+    "result": {
+      "type": "date-time"
+    }
+  }
+]
